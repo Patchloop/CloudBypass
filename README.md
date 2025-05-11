@@ -8,6 +8,7 @@
 ## 🎬 Demo video
 
 > In this video, I demonstrate how CloudBypass handles even the toughest Cloudflare protections, including Turnstile and advanced bot detection layers.
+[![Watch on YouTube](https://img.youtube.com/vi/vPfpegZvlbw/0.jpg)](https://www.youtube.com/watch?v=vPfpegZvlbw)
 
 ---
 
