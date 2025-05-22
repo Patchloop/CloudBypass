@@ -1,8 +1,10 @@
-# 🚀 CloudBypass — Pass any CF Challange
+⚠️ WARNING: SCAMMER IMPERSONATING ME
 
-> **Tired of getting blocked by Cloudflare?**
-> I was too — so I built something that works. Meet **CloudBypass** — a private tool that finally solves the CAPTCHA and challenge problem, reliably.
+There is a scammer pretending to be me and uploading malicious files.
+Do NOT download or buy anything from this person: https://github.com/EzVaZ/CloudBypass
 
+I have no connection with this repository or the person behind it.
+Stay safe and report any suspicious activity.
 ---
 
 ## 🎬 Demo video
