@@ -46,7 +46,7 @@ This tool is intended for developers, researchers, and automation engineers who 
 This tool is not publicly released and not available through any package manager.
 If you're interested in **purchasing** access, feel free to contact me directly.
 
-💻 Discord: ``
+💻 Telegram: @patchloop ``
 
 DM me and we’ll talk.
 
