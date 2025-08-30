@@ -17,7 +17,7 @@ Stay safe and report any suspicious activity.
 
 ## \~ What is CloudBypass?
 
-CloudBypass is a private library I’ve developed over the past few months to consistently bypass modern web protection systems — especially Cloudflare.
+CloudBypass is a private library I’ve developed over the past few months to consistently bypass modern web protection systems especially Cloudflare.
 
 It is capable of:
 
@@ -54,9 +54,9 @@ DM me and we’ll talk.
 
 ## ⚠️ Important
 
-CloudBypass was built for ethical and responsible use only — such as accessing your own data, protected websites, or for academic research purposes.Please do not use this tool for anything malicious or illegal.
+CloudBypass was built for ethical and responsible use only such as accessing your own data, protected websites, or for academic research purposes.Please do not use this tool for anything malicious or illegal.
 
 ---
 
 **Thanks for your interest.**
-If you've ever been blocked at the worst possible moment — you're not alone. This is why CloudBypass exists.
+If you've ever been blocked at the worst possible moment you're not alone. This is why CloudBypass exists.
